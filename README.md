@@ -10,11 +10,11 @@
 
 
 <p align="center">
-🌱 I’m currently working at AWS as an Associate Solutions Architect
+🌱 I’m currently working at AWS as a Solutions Architect
 </p>
 
 <p align="center">
-📫 How to reach me: LinkedIn, or my email which is on my resume and personal page
+📫 How to reach me: LinkedIn, or my email which is on my personal page
 </p>
 
 <p align="center">
